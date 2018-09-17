@@ -4,9 +4,6 @@ import cn.wineyeliu.learnning.designpattern.iterator.Book;
 import cn.wineyeliu.learnning.designpattern.iterator.BookShelf;
 import cn.wineyeliu.learnning.designpattern.iterator.Iterator;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Main {
     public static void main(String[] args) {
         BookShelf bs = new BookShelf(5);
